@@ -33,8 +33,7 @@ main p {
   width: 100%;
 }
 
-/* Groups & Items  (Mobile First) */
-
+ 
 .group {
   display: flex;
   flex-direction: column;
